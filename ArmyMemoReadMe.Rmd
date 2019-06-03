@@ -236,7 +236,7 @@ We can then call R in line like this.  The Reuters headline as of `r as.characte
 
 ##### **`r headLine`**.
 
-# *Signature block and enclosures.**  The signature block and enclosures are listed as a table to keep the spacing correct.  The \&nbsp\; ugliness is there to keep the spacing clean (on word).  You can add additional rows as necessary for more enclosures or more lines in the signature block.
+# **Signature block and enclosures.**  The signature block and enclosures are listed as a table to keep the spacing correct.  The \&nbsp\; ugliness is there to keep the spacing clean (on word).  You can add additional rows as necessary for more enclosures or more lines in the signature block.
 
 
 \newline
